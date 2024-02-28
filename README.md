@@ -1,12 +1,17 @@
-                                                              ![45RW](https://github.com/adixiong/adixiong/assets/158418371/02cd2aa7-1ead-4dff-9435-cc61a0fc9ff0)
+![ok](https://github.com/adixiong/adixiong/assets/158418371/7011bdd3-1bde-4e96-94e5-059c73f4de79)
 
-- 👋 Hi, I’m @adixiong
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
-<div class="tenor-gif-embed" data-postid="26200167" data-share-method="host" data-aspect-ratio="1.05611" data-width="100%"><a href="https://tenor.com/view/wasserfall-forest-haus-home-wald-gif-26200167">Wasserfall Forest GIF</a>from <a href="https://tenor.com/search/wasserfall-gifs">Wasserfall GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+👋 Hi, I’m Adi Xiong. I'm a Freelance Developer and a CS student from Phoenix, Arizona (GO SUN DEVILS!) 👋
+
+🌱 I’m currently working on improving and updating multiple projects, including Torchie.io. 🌱
+
+📫 You can reach me through my LinkedIn or through my email, adixiong@outlook.com. 📫 
+
+✨ When I'm not coding, I love making digital art, travelling, hiking, skiing, and go-kart racing.
+![skiing](https://github.com/adixiong/adixiong/assets/158418371/74198ba0-8167-4aec-98c0-eb911fc1c9b3)
+
+Check out my work down below!
+
+
 <!---
 adixiong/adixiong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
