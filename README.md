@@ -1,6 +1,6 @@
 ![jo](https://github.com/adixiong/adixiong/assets/158418371/24fc7ce9-b676-42a7-a98f-a92f84772731)
 
-👋 Hi, I’m Adi Xiong. I'm a Freelance Developer and a CS student from Phoenix, Arizona (GO SUN DEVILS!) 👋
+👋 Hi, I’m Adi Xiong. I'm a Freelance Developer and a CS student from Scottsdale, Arizona (GO SUN DEVILS!) 👋
 
 🌱 I’m currently working on improving and updating multiple projects, including Torchie.io. 🌱
 
