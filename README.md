@@ -1,4 +1,4 @@
-![jo](https://github.com/adixiong/adixiong/assets/158418371/24fc7ce9-b676-42a7-a98f-a92f84772731)
+![goose-walk-goose](https://github.com/adixiong/adixiong/assets/158418371/0cf0003d-daf5-4a43-8ffe-b00d6c90cba9)
 
 👋 Hi, I’m Adi Xiong. I'm a Freelance Developer and a CS student from Scottsdale, Arizona (GO SUN DEVILS!) 👋
 
