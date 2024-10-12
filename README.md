@@ -1,7 +1,7 @@
 ![silly-penguin](https://github.com/adixiong/adixiong/assets/158418371/afc4fdea-4749-4498-ab93-1011e1fcd4f6)
 
 
-👋 Hi, I’m Adi Xiong. I'm a Freelance Developer and a CS student from Scottsdale, Arizona (GO SUN DEVILS!) 👋
+👋 Hi, I’m Adi Xiong. I'm currently both a Freelance Developer and a CS student!👋
 
 🌱 I’m currently working on improving and updating multiple projects, including Torchie.io. 🌱
 
