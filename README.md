@@ -5,8 +5,6 @@
 
 🌱 I’m currently working on improving and updating multiple projects, including Torchie.io. 🌱
 
-📫 You can reach me through my LinkedIn or through my email, adixiong@outlook.com. 📫 
-
 ✨ When I'm not coding, I love making digital art, travelling, hiking, skiing, and go-kart racing.✨
 
 
