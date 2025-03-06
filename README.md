@@ -3,7 +3,7 @@
 
 👋 Hi, I’m Adi Xiong. I'm currently both a Freelance Developer and a CS student!👋
 
-🌱 I’m currently working on improving and updating multiple projects, including Torchie.io. 🌱
+🌱 I’m currently working on improving and updating multiple projects, including Torchie. 🌱
 
 ✨ When I'm not coding, I love making digital art, travelling, hiking, skiing, and go-kart racing.✨
 
